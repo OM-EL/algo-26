@@ -52,7 +52,7 @@ exercises/<category>/<problem_name>/
 
 ### Prerequisites
 
-- Go 1.21 or higher
+- Go 1.18 or higher
 
 ### Running Tests
 
